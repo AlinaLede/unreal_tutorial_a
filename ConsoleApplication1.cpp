@@ -4,7 +4,7 @@
 #include <iostream>
 #include <memory>
 
-void func1(std::unique_ptr<int[]> &b) {
+void func1(std::unique_ptr<int[]> &b) {  //eufwheifuhiwuf!!!!!
 
     int a = 0;
     while (a < 100) {
